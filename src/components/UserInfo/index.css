@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.user-profile {
+  height: 75px;
+  width: 75px;
+}
+
+.user-name {
+  color: #12022f;
+  font-size: 24px;
+  font-weight: 780;
+}
+
+.user-role {
+  color: #616e7c;
+  font-size: 17px;
+}

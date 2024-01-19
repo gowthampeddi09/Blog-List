@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+
+.blog-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 11px;
+}
+
+.blog-top-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.blog-heading {
+  color: #12022f;
+  font-size: 26px;
+  font-weight: 770;
+}
+
+.blog-text {
+  color: #9aa5b1;
+  font-size: 15px;
+}
